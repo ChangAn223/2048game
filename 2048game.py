@@ -1,9 +1,3 @@
-"""
-
-1.双人版2048游戏
-
-"""
-
 import random,itertools,pygame,sys
 pygame.init()
 screencaption=pygame.display.set_caption('2048小游戏')
